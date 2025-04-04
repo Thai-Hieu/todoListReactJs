@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 5rem;
+    margin-top: 25px;
+}
+
+.formHeader {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.formHeaderInput {
+    flex: 1;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
+    color: #1d66b0;
+    outline-color: #0a7df0;
+}
+
+.formHeaderButton {
+    padding: 12px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.formHeaderButton:hover {
+    background-color: #45a049;
+}

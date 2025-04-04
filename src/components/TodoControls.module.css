@@ -1,0 +1,13 @@
+.FilterBtn {
+    padding: 12px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.FilterBtn:hover {
+    background-color: #45a049;
+}
